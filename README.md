@@ -1,3 +1,6 @@
+## Language / Idioma
+- [English](README.md)
+- [Español](README_ES.md)
 
 # Encriptador de Mensajes
 
