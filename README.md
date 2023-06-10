@@ -1,63 +1,63 @@
-## Language / Idioma
+## Language / Language
 - [English](README.md)
-- [Español](README_ES.md)
+- [Spanish](README_ES.md)
 
-# Encriptador de Mensajes
+# Message Encryptor
 
-Este proyecto es un encriptador y desencriptador de mensajes simples. Convierte las vocales en una serie de códigos y viceversa, proporcionando así una forma básica de ocultar mensajes.
+This project is a simple message encrypter and decryptor. It converts vowels into a series of codes and vice versa, thus providing a basic way to hide messages.
 
-## Uso
+## Use
 
-El encriptador es una página web interactiva que se ejecuta en un navegador. Permite al usuario escribir un mensaje en minúsculas y sin acentos, luego encriptarlo o desencriptarlo. El resultado se muestra en la pantalla y se puede copiar al portapapeles.
+The encryptor is an interactive web page that runs in a browser. Allows the user to write a message in lowercase and without accents, then encrypt or decrypt it. The result is displayed on the screen and can be copied to the clipboard.
 
-### Requisitos
+### Requirements
 
-Para ejecutar el encriptador, necesitarás:
+To run the encryptor, you will need:
 
-- Un navegador web moderno como Google Chrome, Mozilla Firefox o Microsoft Edge.
+- A modern web browser such as Google Chrome, Mozilla Firefox or Microsoft Edge.
 
-### Instrucciones
+### Instructions
 
-1. Clona este repositorio en tu máquina local o descarga los archivos como un archivo ZIP.
+1. Clone this repository to your local machine or download the files as a ZIP file.
 
-2. Abre el archivo `index.html` en tu navegador web.
+2. Open the `index.html` file in your web browser.
 
-3. Escribe un mensaje en el campo de texto.
+3. Write a message in the text field.
 
-4. Haz clic en el botón "Encriptar" para encriptar el mensaje o en el botón "Desencriptar" para desencriptarlo.
+4. Click the "Encrypt" button to encrypt the message or the "Decrypt" button to decrypt it.
 
-5. El resultado se mostrará en la pantalla. Si deseas copiar el mensaje encriptado o desencriptado, haz clic en el botón "Copiar".
+5. The result will be displayed on the screen. If you want to copy the encrypted or decrypted message, click the "Copy" button.
 
-6. ¡Listo! Ahora puedes compartir el mensaje encriptado o desencriptado como desees.
+6. Done! Now you can share the encrypted or decrypted message as you wish.
 
-## Personalización
+## Personalization
 
-Si deseas personalizar el código o agregar nuevas funcionalidades, aquí hay algunas áreas que puedes explorar:
+If you want to customize the code or add new functionality, here are some areas you can explore:
 
-- Modificar el conjunto de caracteres de encriptación para ajustarlo a tus necesidades.
-- Mejorar la interfaz de usuario con estilos CSS adicionales.
-- Añadir validaciones de entrada para garantizar que el usuario ingrese un mensaje válido.
+- Modify the encryption character set to fit your needs.
+- Improve the user interface with additional CSS styles.
+- Add input validations to ensure that the user enters a valid message.
 
-## Contribución
+## Contribution
 
-Si deseas contribuir a este proyecto, sigue estos pasos:
+If you want to contribute to this project, follow these steps:
 
-1. Haz un fork de este repositorio.
+1. Fork this repository.
 
-2. Crea una rama con un nombre descriptivo (`git checkout -b mi-nueva-funcionalidad`).
+2. Create a branch with a descriptive name (`git checkout -b my-new-feature`).
 
-3. Realiza tus cambios y realiza commits significativos.
+3. Make your changes and make meaningful commits.
 
-4. Envía tus cambios al repositorio remoto (`git push origin mi-nueva-funcionalidad`).
+4. Push your changes to the remote repository (`git push origin my-new-feature`).
 
-5. Abre una solicitud de extracción en GitHub y describe tus cambios en detalle.
+5. Open a pull request on GitHub and describe your changes in detail.
 
-## Licencia
+## License
 
-Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
+This project is distributed under the [MIT License](LICENSE).
 
-## Contacto
+## Contact
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
+If you have any questions or suggestions, feel free to contact me.
 
-Espero que esto te ayude. ¡Buena suerte con tu proyecto!
+I hope this helps. Good luck with your project!
